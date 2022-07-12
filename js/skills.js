@@ -1,7 +1,7 @@
 let skills = [
     {
         title:"HTML5",
-        img:'../img/img_programas/html.png',
+        img:'img/img_programas/html.png',
         porcentaje:"100%",
         ariaValue:"100", 
         anchura:"100%"
@@ -9,7 +9,7 @@ let skills = [
 
     {
         title:"CSS3",
-        img:'../img/img_programas/css.png',
+        img:'img/img_programas/css.png',
         porcentaje:"70%",
         ariaValue:"70",
         anchura:"70%", 
@@ -17,7 +17,7 @@ let skills = [
 
     {
         title:"GIT",
-        img:'../img/img_programas/git.png',
+        img:'img/img_programas/git.png',
         porcentaje:"70%",
         ariaValue:"70",
         anchura:"70%", 
@@ -25,7 +25,7 @@ let skills = [
 
     {
         title:"SASS-SCSS",
-        img:'../img/img_programas/sass-logo-156.png',
+        img:'img/img_programas/sass-logo-156.png',
         porcentaje:"70%",
         ariaValue:"70",
         anchura:"70%", 
@@ -33,7 +33,7 @@ let skills = [
 
     {
         title:"Bootstrap",
-        img:'../img/img_programas/boots.png',
+        img:'img/img_programas/boots.png',
         porcentaje:"65%",
         ariaValue:"65",
         anchura:"65%", 
@@ -41,7 +41,7 @@ let skills = [
 
     {
         title:"Java",
-        img:'../img/img_programas/java.png',
+        img:'img/img_programas/java.png',
         porcentaje:"68%",
         ariaValue:"68",
         anchura:"68%", 
@@ -49,7 +49,7 @@ let skills = [
 
     {
         title:"Phyton",
-        img:'../img/img_programas/python.png',
+        img:'img/img_programas/python.png',
         porcentaje:"60%",
         ariaValue:"60",
         anchura:"60%", 
@@ -57,7 +57,7 @@ let skills = [
 
     {
         title:"Blender",
-        img:'../img/img_programas/blender.png',
+        img:'img/img_programas/blender.png',
         porcentaje:"60%",
         ariaValue:"60",
         anchura:"60%", 
@@ -65,7 +65,7 @@ let skills = [
 
     {
         title:"Adobe AfterEffects",
-        img:'../img/img_programas/afterfx.png',
+        img:'img/img_programas/afterfx.png',
         porcentaje:"70%",
         ariaValue:"70",
         anchura:"70%", 
@@ -73,7 +73,7 @@ let skills = [
 
     {
         title:"Adobe Photoshop",
-        img:'../img/img_programas/photoshop.png',
+        img:'img/img_programas/photoshop.png',
         porcentaje:"65%",
         ariaValue:"65",
         anchura:"65%", 
@@ -81,7 +81,7 @@ let skills = [
 
     {
         title:"Adobe Premiere Pro",
-        img:'../img/img_programas/premiere.png',
+        img:'img/img_programas/premiere.png',
         porcentaje:"68%",
         ariaValue:"68",
         anchura:"68%", 
@@ -89,7 +89,7 @@ let skills = [
 
     {
         title:"Adobe Illustrator",
-        img:'../img/img_programas/illustrator.png',
+        img:'img/img_programas/illustrator.png',
         porcentaje:"75%",
         ariaValue:"75",
         anchura:"75%", 
