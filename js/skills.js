@@ -2,7 +2,7 @@ let skills = [
     {
         title:"HTML5",
         img:'img/img_programas/html.png',
-        porcentaje:"100%",
+        porcentaje:"",
         ariaValue:"100", 
         anchura:"100%"
     },
@@ -10,7 +10,7 @@ let skills = [
     {
         title:"CSS3",
         img:'img/img_programas/css.png',
-        porcentaje:"70%",
+        porcentaje:"",
         ariaValue:"70",
         anchura:"70%", 
     },
@@ -18,7 +18,7 @@ let skills = [
     {
         title:"GIT",
         img:'img/img_programas/git.png',
-        porcentaje:"70%",
+        porcentaje:"",
         ariaValue:"70",
         anchura:"70%", 
     },
@@ -26,23 +26,40 @@ let skills = [
     {
         title:"SASS-SCSS",
         img:'img/img_programas/sass-logo-156.png',
-        porcentaje:"70%",
+        porcentaje:"",
         ariaValue:"70",
         anchura:"70%", 
     },
-
+    
     {
         title:"Bootstrap",
         img:'img/img_programas/boots.png',
-        porcentaje:"65%",
+        porcentaje:"",
         ariaValue:"65",
         anchura:"65%", 
     },
 
     {
+        title:"Figma",
+        img:'img/img_programas/figma.png',
+        porcentaje:"",
+        ariaValue:"75",
+        anchura:"75%", 
+    },
+
+    
+    {
         title:"Java",
         img:'img/img_programas/java.png',
-        porcentaje:"68%",
+        porcentaje:"",
+        ariaValue:"68",
+        anchura:"68%", 
+    },
+
+    {
+        title:"MongoDB",
+        img:'img/img_programas/mongo.png',
+        porcentaje:"",
         ariaValue:"68",
         anchura:"68%", 
     },
@@ -50,7 +67,7 @@ let skills = [
     {
         title:"Phyton",
         img:'img/img_programas/python.png',
-        porcentaje:"60%",
+        porcentaje:"",
         ariaValue:"60",
         anchura:"60%", 
     },
@@ -58,7 +75,7 @@ let skills = [
     {
         title:"Blender",
         img:'img/img_programas/blender.png',
-        porcentaje:"60%",
+        porcentaje:"",
         ariaValue:"60",
         anchura:"60%", 
     },
@@ -66,23 +83,23 @@ let skills = [
     {
         title:"Adobe AfterEffects",
         img:'img/img_programas/afterfx.png',
-        porcentaje:"70%",
-        ariaValue:"70",
-        anchura:"70%", 
+        porcentaje:"",
+        ariaValue:"75",
+        anchura:"75%", 
     },
 
     {
         title:"Adobe Photoshop",
         img:'img/img_programas/photoshop.png',
-        porcentaje:"65%",
-        ariaValue:"65",
-        anchura:"65%", 
+        porcentaje:"",
+        ariaValue:"80",
+        anchura:"80%", 
     },
 
     {
         title:"Adobe Premiere Pro",
         img:'img/img_programas/premiere.png',
-        porcentaje:"68%",
+        porcentaje:"",
         ariaValue:"68",
         anchura:"68%", 
     },
@@ -90,23 +107,19 @@ let skills = [
     {
         title:"Adobe Illustrator",
         img:'img/img_programas/illustrator.png',
-        porcentaje:"75%",
+        porcentaje:"",
+        ariaValue:"80",
+        anchura:"80%", 
+    },
+
+    {
+        title:"Adobe Illustrator",
+        img:'img/img_programas/illustrator.png',
+        porcentaje:"",
         ariaValue:"75",
         anchura:"75%", 
     },
-
-    
-
-    
-
-
-
-
-    
-
-  
-
-    
+   
 ]
 
 function renderProductos(arrayProductos) {
